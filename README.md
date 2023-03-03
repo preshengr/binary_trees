@@ -21,7 +21,7 @@ A tree is a popular data structure that is non-linear in nature. Unlike other da
 - Level: A level is the number of parent nodes corresponding to a given node of the tree.
 - Degree of node:  The degree of a node is the number of its children.
 - NULL: The number of NULL nodes in a binary tree is (N+1), where N is the number of nodes in a binary tree.
-# The main applications of tree data structure: 
+# THE MAIN APPLICATIONS OF TREE DATA STRUCTURE: 
 - Manipulate hierarchical data. 
 - Make information easy to search (see tree traversal). 
 - Manipulate sorted lists of data. 
