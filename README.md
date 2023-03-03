@@ -1,4 +1,4 @@
-# WHAT IS A BINARY TRE
+# WHAT IS A BINARY TREE?
 - A binary tree is a tree data structure in which each node can have at most two children, which are referred to as the left child and the right child. The topmost node in a binary tree is called the root, and the bottom-most nodes are called leaves. A binary tree can be visualized as a hierarchical structure with the root at the top and the leaves at the bottom.
 
 - Binary trees have many applications in computer science, including data storage and retrieval, expression evaluation, network routing, and game AI. They can also be used to implement various algorithms such as searching, sorting, and graph algorithms.
@@ -29,3 +29,5 @@ A tree is a popular data structure that is non-linear in nature. Unlike other da
 - Trees can be used to represent the decision-making process of computer-controlled characters in games, such as in decision trees.
 - Huffman coding uses a tree to represent the frequency of characters in a text, which can be used for data compression.
 - Trees are used to represent the syntax of a programming language, and can be used in compiler design to check the syntax of a program and generate machine code.
+
+Authored by Engr Proama~
