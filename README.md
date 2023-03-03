@@ -29,4 +29,3 @@ A tree is a popular data structure that is non-linear in nature. Unlike other da
 - Trees can be used to represent the decision-making process of computer-controlled characters in games, such as in decision trees.
 - Huffman coding uses a tree to represent the frequency of characters in a text, which can be used for data compression.
 - Trees are used to represent the syntax of a programming language, and can be used in compiler design to check the syntax of a program and generate machine code.
-
